@@ -5,3 +5,4 @@ authors = ["Mike Walters <mike@flomp.net>"]
 edition = "2018"
 
 [dependencies]
+byteorder = "*"
